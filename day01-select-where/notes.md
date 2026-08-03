@@ -1,7 +1,7 @@
 # Day 1 Practice Notes
 
 ## What I tried
-I practiced SELECT and WHERE statements today.  I select different columns and applied a condition to search the rows.
+I practiced SELECT and WHERE statements today.  I selected different columns and applied a condition to search the rows.
 
 ## What confused me
 Nothing about this process confused me. 
