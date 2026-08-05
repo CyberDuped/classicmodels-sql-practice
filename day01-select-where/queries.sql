@@ -5,4 +5,6 @@ WHERE country = 'USA';
 
 
 # Show all orders with status = "Cancelled"
-SELECT 
+SELECT orderNumber, status
+FROM Orders
+WHERE status = 'Cancelled';
