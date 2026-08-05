@@ -4,4 +4,5 @@ FROM customers
 WHERE country = 'USA';
 
 
-# 
+# Show all orders with status = "Cancelled"
+SELECT 
